@@ -1,7 +1,7 @@
 # techknows-hackthon12
 
 //    TOPIC NAME: 
-        SAMRT INTELLIGENT ACCIDENT DETECTION SYSTEM
+        SMART INTELLIGENT ACCIDENT DETECTION SYSTEM
 
 //    TEAM NAME:
         Dev dynamos
